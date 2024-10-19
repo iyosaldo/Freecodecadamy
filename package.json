@@ -7,8 +7,6 @@
     "test": "node serve.js"
   },
   "author": {
-    "name": "Iosaldo",
-    "email": "iyosaldonbk@gmail.com"
   },
   "license": "ISC"
 }
