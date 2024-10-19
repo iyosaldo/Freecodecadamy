@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node serve.js"
   },
-  "author": "iasaldo <iyosaldonbk@gmail.com> ",
+  "author": {
+    "name": "Iosaldo",
+    "email": "iyosaldonbk@gmail.com"
+  },
   "license": "ISC"
 }
