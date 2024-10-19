@@ -6,6 +6,5 @@
   "scripts": {
     "test": "node serve.js"
   },
-  "author": "iasaldo",
   "license": "ISC"
 }
