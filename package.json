@@ -1,0 +1,11 @@
+{
+  "name": "iasaldo",
+  "version": "1.0.0",
+  "description": "aula",
+  "main": "package",
+  "scripts": {
+    "test": "node serve.js"
+  },
+  "author": "iasaldo",
+  "license": "ISC"
+}
